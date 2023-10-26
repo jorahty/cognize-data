@@ -1,0 +1,40 @@
+id: computers-basics
+topic: computers
+title: Computers Basics
+description: 'Test your knowledge of fundamental computer concepts.'
+questions:
+  - text: 'What is the primary function of a CPU (Central Processing Unit) in a computer?'
+    options:
+      - correct: true
+        value: Executing instructions and performing calculations
+      - correct: false
+        value: Storing data
+      - correct: false
+        value: Displaying graphics
+
+  - text: 'What does "RAM" stand for in the context of computer memory?'
+    options:
+      - correct: true
+        value: Random Access Memory
+      - correct: false
+        value: Read-Only Memory
+      - correct: false
+        value: Rapid Application Management
+
+  - text: 'In computer storage, what is the smallest unit of data that can be stored or retrieved, typically representing a 0 or 1 in binary code?'
+    options:
+      - correct: true
+        value: Bit
+      - correct: false
+        value: Byte
+      - correct: false
+        value: Megabyte
+
+  - text: 'What is the graphical user interface (GUI) element in an operating system that allows the user to interact with files and folders by organizing them in a hierarchical structure?'
+    options:
+      - correct: true
+        value: File Explorer (Windows) or Finder (Mac)
+      - correct: false
+        value: Taskbar
+      - correct: false
+        value: Desktop

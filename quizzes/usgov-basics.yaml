@@ -1,0 +1,49 @@
+id: usgov-basics
+topic: usgov
+title: Basics
+description: 'Test your knowledge of fundamental concepts about the U.S. government.'
+questions:
+  - text: 'What are the three branches of the U.S. government as defined by the Constitution?'
+    options:
+      - correct: true
+        value: Legislative, Executive, Judicial
+      - correct: false
+        value: Federal, State, Local
+      - correct: false
+        value: Republican, Democratic, Independent
+
+  - text: 'Who is the head of the Executive Branch of the U.S. government?'
+    options:
+      - correct: true
+        value: The President
+      - correct: false
+        value: The Speaker of the House
+      - correct: false
+        value: The Chief Justice
+
+  - text: 'What is the term for the highest court in the U.S. federal judicial system?'
+    options:
+      - correct: true
+        value: The Supreme Court
+      - correct: false
+        value: The District Court
+      - correct: false
+        value: The Appeals Court
+
+  - text: 'How many members are there in the U.S. Senate?'
+    options:
+      - correct: true
+        value: 100
+      - correct: false
+        value: 435
+      - correct: false
+        value: 50
+
+  - text: 'What is the minimum age requirement for someone to serve as President of the United States?'
+    options:
+      - correct: true
+        value: 35
+      - correct: false
+        value: 30
+      - correct: false
+        value: 40

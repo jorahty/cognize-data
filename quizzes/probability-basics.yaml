@@ -1,0 +1,49 @@
+id: probability-basics
+topic: probability
+title: Probability Basics
+description: 'Test your knowledge of fundamental probability concepts.'
+questions:
+  - text: 'What is the probability of getting a head when flipping a fair, unbiased coin?'
+    options:
+      - correct: true
+        value: '0.5'
+      - correct: false
+        value: '0.25'
+      - correct: false
+        value: '1'
+
+  - text: 'If you roll a standard six-sided die, what is the probability of rolling a 6?'
+    options:
+      - correct: true
+        value: 1/6
+      - correct: false
+        value: 1/3
+      - correct: false
+        value: 1/2
+
+  - text: 'In a standard deck of 52 playing cards, what is the probability of drawing a red card (hearts or diamonds)?'
+    options:
+      - correct: true
+        value: 1/2
+      - correct: false
+        value: 1/4
+      - correct: false
+        value: 1/3
+
+  - text: 'If you randomly select a letter from the English alphabet, what is the probability that it will be a vowel (a, e, i, o, or u)?'
+    options:
+      - correct: true
+        value: 5/26
+      - correct: false
+        value: 5/21
+      - correct: false
+        value: 1/2
+
+  - text: 'In a bag, there are 3 red marbles, 2 green marbles, and 5 blue marbles. What is the probability of drawing a green marble at random?'
+    options:
+      - correct: true
+        value: 2/10
+      - correct: false
+        value: 3/10
+      - correct: false
+        value: 1/5

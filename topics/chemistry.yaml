@@ -1,0 +1,13 @@
+id: chemistry
+img: chemistry.png
+title: Chemistry
+quizzes:
+  - description: 'What is Chemistry?'
+    id: chemistry-basics
+    title: Basics
+  - description: 'What is Thermodynamics?'
+    id: chemistry-thermodynamics
+    title: Thermodynamics
+  - description: 'What are Acids and Bases?'
+    id: chemistry-acids
+    title: Acids and Bases

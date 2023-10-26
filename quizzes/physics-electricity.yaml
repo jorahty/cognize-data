@@ -1,0 +1,64 @@
+id: physics-electricity
+topic: physics
+title: Electricity
+description: 'Test your knowledge of electricity in physics.'
+questions:
+  - text: 'What is the fundamental unit of charge in the International System of Units (SI)?'
+    options:
+      - correct: true
+        value: Coulomb (C)
+        detail: 'Correct! The coulomb (C) is the base unit of electric charge in SI.'
+      - correct: false
+        value: Ampere (A)
+        detail: 'Ampere is the SI unit of electric current.'
+      - correct: false
+        value: Volt (V)
+        detail: 'Volt is the SI unit of electric potential difference.'
+
+  - text: 'What is the SI unit for measuring electric current?'
+    options:
+      - correct: true
+        value: Ampere (A)
+        detail: 'Correct! The ampere (A) is the SI unit for electric current.'
+      - correct: false
+        value: Coulomb (C)
+        detail: 'Coulomb is the SI unit of electric charge.'
+      - correct: false
+        value: Ohm (Ω)
+        detail: 'Ohm is the SI unit of electrical resistance.'
+
+  - text: 'What is the term for the opposition to the flow of electric current in a circuit?'
+    options:
+      - correct: true
+        value: Resistance
+        detail: 'Correct! Resistance is the opposition to the flow of electric current in a circuit.'
+      - correct: false
+        value: Voltage
+        detail: 'Voltage is the electric potential difference between two points in a circuit.'
+      - correct: false
+        value: Conductance
+        detail: 'Conductance is the reciprocal of resistance and measures how easily current can flow.'
+
+  - text: 'What is the SI unit for measuring electric potential difference or electromotive force (EMF)?'
+    options:
+      - correct: true
+        value: Volt (V)
+        detail: 'Correct! The volt (V) is the SI unit for electric potential difference or EMF.'
+      - correct: false
+        value: Ohm (Ω)
+        detail: 'Ohm is the SI unit of electrical resistance.'
+      - correct: false
+        value: Ampere (A)
+        detail: 'Ampere is the SI unit of electric current.'
+
+  - text: 'Which of the following materials is a good conductor of electricity?'
+    options:
+      - correct: true
+        value: Copper
+        detail: 'Correct! Copper is an excellent conductor of electricity.'
+      - correct: false
+        value: Glass
+        detail: 'Glass is an insulator and does not conduct electricity.'
+      - correct: false
+        value: Rubber
+        detail: 'Rubber is also an insulator and does not conduct electricity.'

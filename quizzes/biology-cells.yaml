@@ -1,0 +1,64 @@
+id: biology-cells
+topic: biology
+title: Cells
+description: 'Test your knowledge of cell biology and cellular structures.'
+questions:
+  - text: 'What is the basic structural and functional unit of all living organisms?'
+    options:
+      - correct: true
+        value: Cell
+        detail: 'Correct! The cell is the basic structural and functional unit of all living organisms.'
+      - correct: false
+        value: Organ
+        detail: 'Organs are composed of tissues, which are made up of cells.'
+      - correct: false
+        value: Molecule
+        detail: 'Molecules are smaller than cells and are made up of atoms.'
+
+  - text: 'Which type of cell lacks a membrane-bound nucleus and membrane-bound organelles?'
+    options:
+      - correct: true
+        value: Prokaryotic cell
+        detail: 'Correct! Prokaryotic cells do not have a true nucleus or membrane-bound organelles.'
+      - correct: false
+        value: Eukaryotic cell
+        detail: 'Eukaryotic cells have a true nucleus and membrane-bound organelles.'
+      - correct: false
+        value: Plant cell
+        detail: 'Plant cells are a type of eukaryotic cell.'
+
+  - text: 'What is the control center of a eukaryotic cell that contains genetic material called?'
+    options:
+      - correct: true
+        value: Nucleus
+        detail: 'Correct! The nucleus is the control center of a eukaryotic cell and contains genetic material.'
+      - correct: false
+        value: Mitochondria
+        detail: 'Mitochondria are organelles responsible for energy production.'
+      - correct: false
+        value: Ribosome
+        detail: 'Ribosomes are involved in protein synthesis.'
+
+  - text: 'What organelle is responsible for processing and packaging proteins for transport within the cell and secretion from the cell?'
+    options:
+      - correct: true
+        value: Golgi apparatus
+        detail: 'Correct! The Golgi apparatus processes and packages proteins for transport and secretion.'
+      - correct: false
+        value: Endoplasmic reticulum
+        detail: 'The endoplasmic reticulum is involved in protein synthesis and lipid metabolism.'
+      - correct: false
+        value: Lysosome
+        detail: 'Lysosomes contain enzymes for intracellular digestion.'
+
+  - text: 'What is the term for the semi-permeable barrier that surrounds the cell and controls the passage of substances in and out of the cell?'
+    options:
+      - correct: true
+        value: Cell membrane
+        detail: 'Correct! The cell membrane is a semi-permeable barrier that regulates the passage of substances.'
+      - correct: false
+        value: Nucleus membrane
+        detail: "The nucleus has a nuclear membrane, but it's not the primary barrier for substances entering and exiting the cell."
+      - correct: false
+        value: Cell wall
+        detail: 'Cell walls are found in plant cells and provide structural support but are not semi-permeable.'

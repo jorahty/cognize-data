@@ -1,0 +1,49 @@
+id: physics-energy
+topic: physics
+title: Energy
+description: 'Test your knowledge of fundamental concepts related to energy in physics.'
+questions:
+  - text: 'What is the unit of energy in the International System of Units (SI)?'
+    options:
+      - correct: true
+        value: Joule
+      - correct: false
+        value: Watt
+      - correct: false
+        value: Newton
+
+  - text: 'Which law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted from one form to another?'
+    options:
+      - correct: true
+        value: First Law of Thermodynamics
+      - correct: false
+        value: Second Law of Thermodynamics
+      - correct: false
+        value: Third Law of Thermodynamics
+
+  - text: 'What is the energy associated with the motion of an object called?'
+    options:
+      - correct: true
+        value: Kinetic energy
+      - correct: false
+        value: Potential energy
+      - correct: false
+        value: Mechanical energy
+
+  - text: 'What is the energy stored in an object due to its position or height called?'
+    options:
+      - correct: true
+        value: Potential energy
+      - correct: false
+        value: Elastic energy
+      - correct: false
+        value: Gravitational energy
+
+  - text: 'In the context of energy, what is the term for the measure of disorder or randomness in a system?'
+    options:
+      - correct: true
+        value: Entropy
+      - correct: false
+        value: Efficiency
+      - correct: false
+        value: Inertia

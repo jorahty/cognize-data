@@ -1,0 +1,64 @@
+id: chemistry-acids
+topic: chemistry
+title: Acids and Bases
+description: 'Test your knowledge of acids and bases in chemistry.'
+questions:
+  - text: 'What is the pH of a neutral solution at 25°C?'
+    options:
+      - correct: false
+        value: '0'
+        detail: '0 is highly acidic, not neutral.'
+      - correct: false
+        value: '14'
+        detail: '14 is highly basic, not neutral.'
+      - correct: true
+        value: '7'
+        detail: 'Correct! The pH of a neutral solution at 25°C is 7.'
+
+  - text: 'What is the color of litmus paper turning when dipped in an acidic solution?'
+    options:
+      - correct: false
+        value: Blue
+        detail: 'Litmus paper turns blue in the presence of a basic solution.'
+      - correct: true
+        value: Red
+        detail: 'Correct! Litmus paper turns red in the presence of an acidic solution.'
+      - correct: false
+        value: Yellow
+        detail: 'Yellow is not a common color change for litmus paper.'
+
+  - text: 'Which of the following is a strong acid?'
+    options:
+      - correct: true
+        value: Hydrochloric acid (HCl)
+        detail: 'Correct! Hydrochloric acid (HCl) is a strong acid.'
+      - correct: false
+        value: Acetic acid (CH3COOH)
+        detail: 'Acetic acid is a weak acid.'
+      - correct: false
+        value: Carbonic acid (H2CO3)
+        detail: 'Carbonic acid is a weak acid.'
+
+  - text: 'What is the name for a substance that can act as both an acid and a base depending on the conditions?'
+    options:
+      - correct: false
+        value: Neutral
+        detail: 'Neutral substances are neither acidic nor basic.'
+      - correct: true
+        value: Amphiprotic
+        detail: 'Correct! Amphiprotic substances can act as both acids and bases.'
+      - correct: false
+        value: Strong
+        detail: 'Strength refers to the concentration of an acid or base.'
+
+  - text: 'Which of the following is a common household base used for cleaning and unclogging drains?'
+    options:
+      - correct: false
+        value: Vinegar
+        detail: 'Vinegar is a weak acid.'
+      - correct: false
+        value: Baking soda
+        detail: "Baking soda is amphoteric and can act as a base, but it's not typically used for unclogging drains."
+      - correct: true
+        value: Sodium hydroxide (NaOH)
+        detail: 'Correct! Sodium hydroxide (NaOH) is a strong base and is used in drain cleaners.'

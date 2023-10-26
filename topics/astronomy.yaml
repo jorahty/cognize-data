@@ -1,0 +1,7 @@
+id: astronomy
+img: astronomy.png
+title: Astronomy
+quizzes:
+  - description: 'What is Astronomy?'
+    id: astronomy-basics
+    title: Basics

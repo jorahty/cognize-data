@@ -1,0 +1,10 @@
+id: finance
+img: finance.png
+title: Finance
+quizzes:
+  - description: 'What is Finance?'
+    id: finance-basics
+    title: Basics
+  - description: 'What is investing?'
+    id: finance-investing
+    title: Investing

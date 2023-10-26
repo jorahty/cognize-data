@@ -1,0 +1,37 @@
+id: physics-basics
+topic: physics
+title: Physics Basics
+description: 'Test your knowledge of fundamental physics concepts.'
+questions:
+  - text: 'What is the fundamental unit of length in the International System of Units (SI)?'
+    options:
+      - correct: true
+        value: Meter
+        detail: 'Correct! The meter (or metre) is the base unit of length in SI.'
+      - correct: false
+        value: Second
+        detail: 'This is a unit of time.'
+
+  - text: 'Which of the following is a scalar quantity in physics?'
+    options:
+      - correct: false
+        value: Velocity
+        detail: 'Velocity is a vector quantity as it has both magnitude and direction.'
+      - correct: true
+        value: Temperature
+        detail: 'Correct! Temperature is a scalar quantity; it has only magnitude.'
+      - correct: false
+        value: Acceleration
+        detail: 'Acceleration is a vector quantity because it has both magnitude and direction.'
+
+  - text: 'What is the law that states "An object at rest tends to stay at rest, and an object in motion tends to stay in motion with the same speed and in the same direction unless acted upon by an unbalanced force" called?'
+    options:
+      - correct: true
+        value: "Newton's First Law of Motion"
+        detail: "Correct! This is Newton's First Law of Motion, also known as the law of inertia."
+      - correct: false
+        value: "Newton's Second Law of Motion"
+        detail: "No, Newton's Second Law relates force, mass, and acceleration."
+      - correct: false
+        value: "Newton's Third Law of Motion"
+        detail: "Newton's Third Law describes action and reaction pairs of forces."

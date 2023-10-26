@@ -1,0 +1,12 @@
+{
+  "name": "cognize-data",
+  "scripts": {
+    "start": "node clear.js && node topics.js && node quizzes.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^7.3.0",
+    "fs-extra": "^8.0.0",
+    "yamljs": "^0.3.0",
+    "@google-cloud/firestore": "^7.1.0"
+  }
+}

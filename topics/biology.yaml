@@ -1,0 +1,10 @@
+id: biology
+img: biology.png
+title: Biology
+quizzes:
+  - description: 'What is Biology?'
+    id: biology-basics
+    title: Basics
+  - description: 'What is a Cell?'
+    id: biology-cells
+    title: Cells

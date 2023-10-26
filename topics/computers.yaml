@@ -1,0 +1,7 @@
+id: computers
+img: computers.png
+title: Computers
+quizzes:
+  - description: 'What is Computers?'
+    id: computers-basics
+    title: Basics

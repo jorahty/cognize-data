@@ -1,0 +1,64 @@
+id: physics-units
+topic: physics
+title: Physics Units
+description: 'Test your knowledge of units and measurements in physics.'
+questions:
+  - text: 'What is the SI unit for measuring time?'
+    options:
+      - correct: false
+        value: Meter
+        detail: 'Meter is the SI unit for length.'
+      - correct: true
+        value: Second
+        detail: 'Correct! The second (s) is the SI unit for time.'
+      - correct: false
+        value: Kelvin
+        detail: 'Kelvin is the SI unit for temperature.'
+
+  - text: 'Which of the following is the SI unit of electric current?'
+    options:
+      - correct: true
+        value: Ampere
+        detail: 'Correct! The ampere (A) is the SI unit of electric current.'
+      - correct: false
+        value: Volt
+        detail: 'Volt is the SI unit of electric potential difference.'
+      - correct: false
+        value: Ohm
+        detail: 'Ohm is the SI unit of electrical resistance.'
+
+  - text: 'What is the SI unit for measuring luminous intensity?'
+    options:
+      - correct: false
+        value: Newton
+        detail: 'Newton is the SI unit for force.'
+      - correct: true
+        value: Candela
+        detail: 'Correct! The candela (cd) is the SI unit for luminous intensity.'
+      - correct: false
+        value: Joule
+        detail: 'Joule is the SI unit for energy.'
+
+  - text: 'In the SI system, what is the unit of mass?'
+    options:
+      - correct: true
+        value: Kilogram
+        detail: 'Correct! The kilogram (kg) is the SI unit for mass.'
+      - correct: false
+        value: Gram
+        detail: 'Gram is a smaller metric unit of mass.'
+      - correct: false
+        value: Pound
+        detail: 'Pound is a unit of mass in some non-SI systems.'
+
+  - text: 'What is the SI unit for measuring the amount of a substance?'
+    options:
+      - correct: true
+        value: Mole
+        detail: 'Correct! The mole (mol) is the SI unit for the amount of a substance.'
+      - correct: false
+        value: Liter
+        detail: 'Liter is a unit of volume.'
+      - correct: false
+        value: Kelvin
+        detail: 'Kelvin is the SI unit for temperature.'

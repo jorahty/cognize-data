@@ -1,0 +1,7 @@
+id: calculus
+img: calculus.png
+title: Calculus
+quizzes:
+  - description: 'What is Calculus?'
+    id: calculus-basics
+    title: Basics

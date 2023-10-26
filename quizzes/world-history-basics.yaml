@@ -1,0 +1,49 @@
+id: world-history-basics
+topic: world-history
+title: World History Basics
+description: 'Test your knowledge of fundamental concepts in world history.'
+questions:
+  - text: 'Who is credited with discovering America in 1492, leading to the eventual colonization of the Americas?'
+    options:
+      - correct: true
+        value: Christopher Columbus
+      - correct: false
+        value: Vasco da Gama
+      - correct: false
+        value: Ferdinand Magellan
+
+  - text: 'Which event is often considered the starting point of World War I, when Archduke Franz Ferdinand of Austria-Hungary was assassinated?'
+    options:
+      - correct: true
+        value: The assassination of Archduke Franz Ferdinand
+      - correct: false
+        value: The sinking of the Lusitania
+      - correct: false
+        value: The signing of the Treaty of Versailles
+
+  - text: "Who is known for leading the non-violent civil rights movement in India, which eventually led to India's independence from British rule?"
+    options:
+      - correct: true
+        value: Mahatma Gandhi
+      - correct: false
+        value: Nelson Mandela
+      - correct: false
+        value: Martin Luther King Jr.
+
+  - text: 'Which ancient civilization is famous for constructing the Great Wall of China and the Terracotta Army?'
+    options:
+      - correct: true
+        value: Ancient China
+      - correct: false
+        value: Ancient Egypt
+      - correct: false
+        value: Ancient Greece
+
+  - text: 'In what year did the Berlin Wall, which divided East and West Berlin, fall, leading to the eventual reunification of Germany?'
+    options:
+      - correct: true
+        value: '1989'
+      - correct: false
+        value: '1991'
+      - correct: false
+        value: '1961'

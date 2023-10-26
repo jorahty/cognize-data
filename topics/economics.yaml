@@ -1,0 +1,13 @@
+id: economics
+img: economics.png
+title: Economics
+quizzes:
+  - description: 'What is Economics?'
+    id: economics-basics
+    title: Basics
+  - description: 'Big-picture economics'
+    id: economics-macro
+    title: Macroeconomics
+  - description: 'Little-picture economics'
+    id: economics-micro
+    title: Microeconomics

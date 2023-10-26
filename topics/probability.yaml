@@ -1,0 +1,7 @@
+id: probability
+img: probability.png
+title: Probability
+quizzes:
+  - description: 'What is Probability?'
+    id: probability-basics
+    title: Basics

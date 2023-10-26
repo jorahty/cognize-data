@@ -1,0 +1,64 @@
+id: chemistry-basics
+topic: chemistry
+title: Chemistry Basics
+description: 'Test your knowledge of fundamental chemistry concepts.'
+questions:
+  - text: 'What is the smallest unit of an element that retains the chemical properties of that element?'
+    options:
+      - correct: true
+        value: Atom
+        detail: 'Correct! An atom is the smallest unit of an element that retains its chemical properties.'
+      - correct: false
+        value: Molecule
+        detail: 'A molecule is made up of two or more atoms bonded together.'
+      - correct: false
+        value: Ion
+        detail: 'An ion is an atom or molecule with an electric charge due to the loss or gain of electrons.'
+
+  - text: 'What is the process of a substance changing from a solid directly to a gas without passing through the liquid phase?'
+    options:
+      - correct: true
+        value: Sublimation
+        detail: 'Correct! Sublimation is the phase transition from a solid to a gas without becoming a liquid.'
+      - correct: false
+        value: Vaporization
+        detail: 'Vaporization is the general process of a substance turning into vapor.'
+      - correct: false
+        value: Melting
+        detail: 'Melting is the phase transition from a solid to a liquid.'
+
+  - text: 'What is the chemical symbol for the element oxygen?'
+    options:
+      - correct: true
+        value: 'O'
+        detail: 'Correct! The chemical symbol for oxygen is O.'
+      - correct: false
+        value: Ox
+        detail: 'Ox is not a chemical symbol for any element.'
+      - correct: false
+        value: O2
+        detail: 'O2 represents a molecule of oxygen, not the element itself.'
+
+  - text: 'What is the term for a substance that speeds up a chemical reaction but is not consumed in the reaction?'
+    options:
+      - correct: true
+        value: Catalyst
+        detail: 'Correct! A catalyst is a substance that increases the rate of a chemical reaction but is not consumed in the process.'
+      - correct: false
+        value: Reactant
+        detail: 'Reactants are substances that are consumed in a chemical reaction.'
+      - correct: false
+        value: Product
+        detail: 'Products are the substances formed in a chemical reaction.'
+
+  - text: 'What is the chemical formula for water?'
+    options:
+      - correct: true
+        value: H2O
+        detail: 'Correct! The chemical formula for water is H2O.'
+      - correct: false
+        value: CO2
+        detail: 'CO2 is the chemical formula for carbon dioxide.'
+      - correct: false
+        value: CH4
+        detail: 'CH4 is the chemical formula for methane.'

@@ -1,0 +1,64 @@
+id: economics-basics
+topic: economics
+title: Economics Basics
+description: 'Test your knowledge of fundamental economics concepts.'
+questions:
+  - text: 'Which of the following best defines economics?'
+    options:
+      - correct: true
+        value: 'The study of how societies allocate limited resources to meet their needs and wants.'
+        detail: 'Correct! Economics is the study of how societies allocate limited resources to meet their needs and wants.'
+      - correct: false
+        value: 'The study of money and financial markets.'
+        detail: 'While money and financial markets are part of economics, they do not fully define the field.'
+      - correct: false
+        value: 'The study of political systems and government policies.'
+        detail: 'Economics and political science are related, but economics focuses on resource allocation.'
+
+  - text: 'What is the term for the highest-valued alternative that is given up when a choice is made?'
+    options:
+      - correct: true
+        value: Opportunity cost
+        detail: 'Correct! Opportunity cost is the value of the next best alternative that is foregone when a decision is made.'
+      - correct: false
+        value: Marginal cost
+        detail: 'Marginal cost is the additional cost incurred when producing one more unit of a good.'
+      - correct: false
+        value: Sunk cost
+        detail: 'Sunk cost is a cost that has already been incurred and cannot be recovered.'
+
+  - text: "In economics, what is the term for the total value of all goods and services produced within a country's borders in a given time period?"
+    options:
+      - correct: true
+        value: Gross Domestic Product (GDP)
+        detail: "Correct! GDP measures the total value of a country's production."
+      - correct: false
+        value: Consumer Price Index (CPI)
+        detail: 'CPI is a measure of inflation, not overall production.'
+      - correct: false
+        value: Trade deficit
+        detail: 'A trade deficit relates to the balance of trade, not GDP.'
+
+  - text: 'What is the term for the general increase in prices and fall in the purchasing value of money?'
+    options:
+      - correct: true
+        value: Inflation
+        detail: 'Correct! Inflation is the general increase in prices and decrease in the value of money.'
+      - correct: false
+        value: Recession
+        detail: 'A recession is a significant decline in economic activity.'
+      - correct: false
+        value: Deflation
+        detail: 'Deflation is the general decrease in prices and increase in the value of money.'
+
+  - text: 'In economics, what is the term for a market situation in which there are many buyers and sellers of a homogeneous product?'
+    options:
+      - correct: true
+        value: Perfect competition
+        detail: 'Correct! Perfect competition is a market situation with many buyers and sellers of identical products.'
+      - correct: false
+        value: Monopoly
+        detail: 'A monopoly is a market with a single seller and no close substitutes.'
+      - correct: false
+        value: Oligopoly
+        detail: 'Oligopoly is a market with a small number of large sellers.'

@@ -1,0 +1,22 @@
+id: physics
+img: physics.png
+title: Physics
+quizzes:
+  - description: 'What is Physics?'
+    id: physics-basics
+    title: Basics
+  - description: 'Measuring the universe'
+    id: physics-units
+    title: Units
+  - description: 'What is motion?'
+    id: physics-motion
+    title: Motion
+  - description: 'What are forces?'
+    id: physics-forces
+    title: Forces
+  - description: 'What is electricity?'
+    id: physics-electricity
+    title: Electricity
+  - description: 'What is energy?'
+    id: physics-energy
+    title: Energy

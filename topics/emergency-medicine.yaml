@@ -1,0 +1,7 @@
+id: emergency-medicine
+img: emergency-medicine.png
+title: Emergency Medicine
+quizzes:
+  - description: 'What is Emergency Medicine?'
+    id: emergency-medicine-basics
+    title: Basics

@@ -1,0 +1,7 @@
+id: world-history
+img: world-history.png
+title: World History
+quizzes:
+  - description: 'What happened?'
+    id: world-history-basics
+    title: Basics

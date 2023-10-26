@@ -1,0 +1,49 @@
+id: calculus-basics
+topic: mathematics
+title: Calculus Basics
+description: 'Test your knowledge of fundamental calculus concepts.'
+questions:
+  - text: 'What is the derivative of a constant (e.g., a number like 5 or -2)?'
+    options:
+      - correct: true
+        value: '0'
+      - correct: false
+        value: '1'
+      - correct: false
+        value: The constant itself
+
+  - text: 'In calculus, what does the integral represent in the context of a function?'
+    options:
+      - correct: true
+        value: The area under the curve
+      - correct: false
+        value: The slope of the tangent line
+      - correct: false
+        value: The maximum value of the function
+
+  - text: 'What is the limit of the function (1/x) as x approaches infinity (lim(x -> ∞) 1/x)?'
+    options:
+      - correct: true
+        value: '0'
+      - correct: false
+        value: Infinity (∞)
+      - correct: false
+        value: '1'
+
+  - text: 'What is the derivative of the function f(x) = x^2 with respect to x?'
+    options:
+      - correct: true
+        value: 2x
+      - correct: false
+        value: x
+      - correct: false
+        value: '2'
+
+  - text: 'In calculus, what is the process of finding the integral of a function called?'
+    options:
+      - correct: true
+        value: Integration
+      - correct: false
+        value: Differentiation
+      - correct: false
+        value: Limit evaluation
