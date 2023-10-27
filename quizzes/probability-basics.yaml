@@ -44,6 +44,6 @@ questions:
       - correct: false
         value: 3/10
       - correct: false
-        value: 1/5
+        value: 1/10
       - correct: true
         value: 2/10
