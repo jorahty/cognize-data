@@ -14,10 +14,10 @@ questions:
 
   - text: 'In construction, what is the term for a vertical support structure that bears the load of a building or other structure?'
     options:
-      - correct: true
-        value: Column
       - correct: false
         value: Beam
+      - correct: true
+        value: Column
       - correct: false
         value: Foundation
 
@@ -32,27 +32,27 @@ questions:
 
   - text: 'In construction, what is the process of joining two or more pieces of metal by melting them together called?'
     options:
-      - correct: true
-        value: Welding
       - correct: false
         value: Bolting
       - correct: false
         value: Gluing
+      - correct: true
+        value: Welding
 
   - text: 'What is the term for a detailed drawing or plan that provides a visual representation of a construction project, including dimensions and materials to be used?'
     options:
-      - correct: true
-        value: Blueprint
       - correct: false
         value: Sketch
+      - correct: true
+        value: Blueprint
       - correct: false
         value: Schedule
 
   - text: 'What is the equipment or machine used for lifting and moving heavy objects or materials on a construction site called?'
     options:
-      - correct: true
-        value: Crane
       - correct: false
         value: Excavator
       - correct: false
         value: Bulldozer
+      - correct: true
+        value: Crane

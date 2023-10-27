@@ -2,6 +2,6 @@ id: electronics
 img: electronics.png
 title: Electronics
 quizzes:
-  - description: 'What is Electronics?'
+  - description: 'What are Electronics?'
     id: electronics-basics
     title: Basics
