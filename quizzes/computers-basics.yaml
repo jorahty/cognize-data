@@ -14,19 +14,19 @@ questions:
 
   - text: 'What does "RAM" stand for in the context of computer memory?'
     options:
-      - correct: true
-        value: Random Access Memory
       - correct: false
         value: Read-Only Memory
       - correct: false
         value: Rapid Application Management
+      - correct: true
+        value: Random Access Memory
 
   - text: 'In computer storage, what is the smallest unit of data that can be stored or retrieved, typically representing a 0 or 1 in binary code?'
     options:
-      - correct: true
-        value: Bit
       - correct: false
         value: Byte
+      - correct: true
+        value: Bit
       - correct: false
         value: Megabyte
 

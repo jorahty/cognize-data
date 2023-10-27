@@ -17,12 +17,12 @@ questions:
 
   - text: 'What is the process of a substance changing from a solid directly to a gas without passing through the liquid phase?'
     options:
-      - correct: true
-        value: Sublimation
-        detail: 'Correct! Sublimation is the phase transition from a solid to a gas without becoming a liquid.'
       - correct: false
         value: Vaporization
         detail: 'Vaporization is the general process of a substance turning into vapor.'
+      - correct: true
+        value: Sublimation
+        detail: 'Correct! Sublimation is the phase transition from a solid to a gas without becoming a liquid.'
       - correct: false
         value: Melting
         detail: 'Melting is the phase transition from a solid to a liquid.'
@@ -53,12 +53,12 @@ questions:
 
   - text: 'What is the chemical formula for water?'
     options:
-      - correct: true
-        value: H2O
-        detail: 'Correct! The chemical formula for water is H2O.'
       - correct: false
         value: CO2
         detail: 'CO2 is the chemical formula for carbon dioxide.'
+      - correct: true
+        value: H2O
+        detail: 'Correct! The chemical formula for water is H2O.'
       - correct: false
         value: CH4
         detail: 'CH4 is the chemical formula for methane.'

@@ -14,39 +14,39 @@ questions:
 
   - text: "What type of investment involves purchasing ownership shares in a company and giving the investor a claim on the company's earnings and assets?"
     options:
-      - correct: true
-        value: Stocks
       - correct: false
         value: Bonds
       - correct: false
         value: Mutual funds
+      - correct: true
+        value: Stocks
 
   - text: 'In the context of investing, what does the term "ROI" stand for?'
     options:
-      - correct: true
-        value: Return on Investment
       - correct: false
         value: Rate of Interest
+      - correct: true
+        value: Return on Investment
       - correct: false
         value: Risk of Investment
 
   - text: 'What is the term for an investment strategy that aims to buy low and sell high, often involving short-term trading and market timing?'
     options:
-      - correct: true
-        value: Active investing
       - correct: false
         value: Passive investing
       - correct: false
         value: Value investing
+      - correct: true
+        value: Active investing
 
   - text: 'Which of the following is a type of investment that represents a loan made to a corporation or government entity, with the promise of regular interest payments and the return of the principal at maturity?'
     options:
-      - correct: true
-        value: Bonds
       - correct: false
         value: Stocks
       - correct: false
         value: Real estate
+      - correct: true
+        value: Bonds
 
   - text: 'What is the term for a diversified investment fund that pools the money of many investors and is managed by a professional fund manager?'
     options:

@@ -5,45 +5,42 @@ description: 'Test your knowledge of fundamental biology concepts.'
 questions:
   - text: 'What is the basic unit of life?'
     options:
-      - correct: true
-        value: Cell
-        detail: 'Correct! The cell is the basic unit of life.'
       - correct: false
         value: Organ
         detail: 'Organs are composed of cells and are not the basic unit of life.'
+      - correct: true
+        value: Cell
+        detail: 'Correct! The cell is the basic unit of life.'
       - correct: false
         value: Molecule
         detail: 'Molecules are made up of atoms and are smaller than cells.'
 
   - text: 'What is the process by which plants make their own food using sunlight?'
     options:
-      - correct: true
-        value: Photosynthesis
-        detail: 'Correct! Photosynthesis is the process by which plants produce food using sunlight.'
       - correct: false
         value: Respiration
         detail: 'Respiration is the process of breaking down food to release energy.'
+      - correct: true
+        value: Photosynthesis
+        detail: 'Correct! Photosynthesis is the process by which plants produce food using sunlight.'
       - correct: false
         value: Fermentation
         detail: 'Fermentation is a metabolic process that does not rely on sunlight.'
 
   - text: 'What is the study of heredity and the variation of inherited characteristics called?'
     options:
-      - correct: true
-        value: Genetics
-        detail: 'Correct! Genetics is the study of heredity and inherited characteristics.'
       - correct: false
         value: Evolution
         detail: 'Evolution is the study of how species change over time.'
+      - correct: true
+        value: Genetics
+        detail: 'Correct! Genetics is the study of heredity and inherited characteristics.'
       - correct: false
         value: Ecology
         detail: 'Ecology is the study of relationships between living organisms and their environment.'
 
   - text: 'Which of the following is not one of the four major biomolecules in living organisms?'
     options:
-      - correct: true
-        value: Silicon
-        detail: 'Correct! Silicon is not one of the four major biomolecules; the others are carbohydrates, proteins, nucleic acids, and lipids.'
       - correct: false
         value: Carbohydrate
         detail: 'Carbohydrates are one of the four major biomolecules.'
@@ -56,6 +53,9 @@ questions:
       - correct: false
         value: Lipid
         detail: 'Lipids are one of the four major biomolecules.'
+      - correct: true
+        value: Silicon
+        detail: 'Correct! Silicon is not one of the four major biomolecules; the others are carbohydrates, proteins, nucleic acids, and lipids.'
 
   - text: 'What is the term for the process by which organisms convert food into energy and produce waste products?'
     options:

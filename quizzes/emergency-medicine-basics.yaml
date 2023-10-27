@@ -5,28 +5,28 @@ description: 'Test your knowledge of fundamental concepts in emergency medicine.
 questions:
   - text: 'What does the acronym "CPR" stand for in emergency medicine?'
     options:
-      - correct: true
-        value: Cardiopulmonary Resuscitation
       - correct: false
         value: Central Processing Unit
       - correct: false
         value: Controlled Pressure Release
+      - correct: true
+        value: Cardiopulmonary Resuscitation
 
   - text: 'Which of the following symptoms is a common sign of a heart attack in both men and women?'
     options:
-      - correct: true
-        value: Chest pain or discomfort
       - correct: false
         value: Persistent cough
       - correct: false
         value: Skin rash
+      - correct: true
+        value: Chest pain or discomfort
 
   - text: 'What is the first step in the "ABCDE" approach to trauma assessment in emergency medicine?'
     options:
-      - correct: true
-        value: Airway
       - correct: false
         value: Breathing
+      - correct: true
+        value: Airway
       - correct: false
         value: Circulation
 
@@ -41,9 +41,9 @@ questions:
 
   - text: 'What is the standard emergency phone number that can be dialed in the United States for immediate assistance in life-threatening situations?'
     options:
-      - correct: true
-        value: '911'
       - correct: false
         value: '999'
+      - correct: true
+        value: '911'
       - correct: false
         value: '112'

@@ -5,45 +5,45 @@ description: 'Test your knowledge of fundamental astronomy concepts.'
 questions:
   - text: 'What is the closest star to Earth?'
     options:
-      - correct: true
-        value: The Sun
       - correct: false
         value: Polaris
       - correct: false
         value: Proxima Centauri
+      - correct: true
+        value: The Sun
 
   - text: 'What is the term for the imaginary line running from the North Pole to the South Pole around which Earth rotates?'
     options:
-      - correct: true
-        value: Axis
       - correct: false
         value: Equator
+      - correct: true
+        value: Axis
       - correct: false
         value: Meridian
 
   - text: 'Which planet in our solar system is known as the "Red Planet" due to its reddish appearance?'
     options:
-      - correct: true
-        value: Mars
       - correct: false
         value: Venus
+      - correct: true
+        value: Mars
       - correct: false
         value: Jupiter
 
   - text: `What is the term for a small rocky or metallic object that orbits the Sun and is often referred to as a "shooting star" when it enters Earth's atmosphere and burns up?`
     options:
-      - correct: true
-        value: Meteoroid
       - correct: false
         value: Asteroid
+      - correct: true
+        value: Meteoroid
       - correct: false
         value: Comet
 
   - text: 'Which famous space telescope was launched into orbit in 1990 and has provided breathtaking images of distant galaxies, nebulae, and other astronomical objects?'
     options:
-      - correct: true
-        value: Hubble Space Telescope
       - correct: false
         value: Kepler Space Telescope
       - correct: false
         value: James Webb Space Telescope
+      - correct: true
+        value: Hubble Space Telescope

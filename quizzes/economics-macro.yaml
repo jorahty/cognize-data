@@ -14,36 +14,36 @@ questions:
 
   - text: "What is the total value of all goods and services produced within a country's borders in a given time period called?"
     options:
-      - correct: true
-        value: Gross Domestic Product (GDP)
       - correct: false
         value: Gross National Product (GNP)
+      - correct: true
+        value: Gross Domestic Product (GDP)
       - correct: false
         value: Net Domestic Product (NDP)
 
   - text: 'Which of the following is a tool that central banks use to influence the money supply and interest rates in an economy?'
     options:
-      - correct: true
-        value: Open market operations
       - correct: false
         value: Fiscal policy
       - correct: false
         value: Trade policy
+      - correct: true
+        value: Open market operations
 
   - text: 'What is the term for a sustained, widespread decrease in economic activity that lasts for an extended period of time?'
     options:
-      - correct: true
-        value: Depression
       - correct: false
         value: Inflation
+      - correct: true
+        value: Depression
       - correct: false
         value: Stagflation
 
   - text: "In macroeconomics, what is the measure of an economy's overall output, often used to gauge its economic health?"
     options:
-      - correct: true
-        value: Real GDP
       - correct: false
         value: Nominal GDP
       - correct: false
         value: Gross National Product (GNP)
+      - correct: true
+        value: Real GDP

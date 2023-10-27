@@ -5,60 +5,60 @@ description: 'Test your knowledge of forces in physics.'
 questions:
   - text: 'What is the SI unit for measuring force?'
     options:
-      - correct: true
-        value: Newton (N)
-        detail: 'Correct! The SI unit for force is the newton (N).'
       - correct: false
         value: Joule (J)
         detail: 'Joule is the SI unit for energy.'
+      - correct: true
+        value: Newton (N)
+        detail: 'Correct! The SI unit for force is the newton (N).'
       - correct: false
         value: Watt (W)
         detail: 'Watt is the SI unit for power.'
 
   - text: 'Which of the following is an example of a contact force?'
     options:
-      - correct: true
-        value: Tension in a rope
-        detail: 'Correct! Tension in a rope is an example of a contact force.'
       - correct: false
         value: Gravity
         detail: 'Gravity is a non-contact force.'
+      - correct: true
+        value: Tension in a rope
+        detail: 'Correct! Tension in a rope is an example of a contact force.'
       - correct: false
         value: Magnetic force
         detail: 'Magnetic force can be non-contact or contact, depending on the situation.'
 
   - text: "According to Newton's third law of motion, for every action, there is an equal and opposite ___________."
     options:
-      - correct: true
-        value: Reaction
-        detail: "Correct! According to Newton's third law, for every action, there is an equal and opposite reaction."
       - correct: false
         value: Result
         detail: `The term used in Newton's third law is "reaction," not "result."`
       - correct: false
         value: Force
         detail: 'While force is involved, the complete phrase is "equal and opposite reaction."'
+      - correct: true
+        value: Reaction
+        detail: "Correct! According to Newton's third law, for every action, there is an equal and opposite reaction."
 
   - text: 'Which of the following is an example of a non-contact force?'
     options:
-      - correct: true
-        value: Magnetism
-        detail: 'Correct! Magnetism is a non-contact force.'
       - correct: false
         value: Normal force
         detail: 'Normal force is a contact force that supports an object against gravity.'
       - correct: false
         value: Tension in a string
         detail: 'Tension in a string is a contact force.'
+      - correct: true
+        value: Magnetism
+        detail: 'Correct! Magnetism is a non-contact force.'
 
   - text: 'What is the force that pulls objects towards the center of the Earth?'
     options:
-      - correct: true
-        value: Gravity
-        detail: 'Correct! Gravity is the force that pulls objects towards the center of the Earth.'
       - correct: false
         value: Friction
         detail: 'Friction opposes the motion of objects in contact with a surface.'
+      - correct: true
+        value: Gravity
+        detail: 'Correct! Gravity is the force that pulls objects towards the center of the Earth.'
       - correct: false
         value: Tension
         detail: 'Tension is a pulling force in a stretched object, like a rope.'

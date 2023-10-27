@@ -5,28 +5,28 @@ description: 'Test your knowledge of fundamental electronics concepts.'
 questions:
   - text: 'What is the fundamental unit of electrical charge?'
     options:
-      - correct: true
-        value: Coulomb
       - correct: false
         value: Volt
       - correct: false
         value: Ohm
+      - correct: true
+        value: Coulomb
 
   - text: 'What does the acronym "AC" stand for in the context of electrical circuits?'
     options:
-      - correct: true
-        value: Alternating Current
       - correct: false
         value: Direct Current
+      - correct: true
+        value: Alternating Current
       - correct: false
         value: Amperage Control
 
   - text: 'In electronics, what is the term for a two-terminal electronic component that allows current to flow in one direction but blocks it in the opposite direction?'
     options:
-      - correct: true
-        value: Diode
       - correct: false
         value: Transistor
+      - correct: true
+        value: Diode
       - correct: false
         value: Capacitor
 

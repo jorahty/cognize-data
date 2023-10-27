@@ -5,45 +5,45 @@ description: 'Test your knowledge of fundamental finance concepts.'
 questions:
   - text: 'What is the term for the amount of money you earn or receive before expenses and taxes are deducted?'
     options:
-      - correct: true
-        value: Gross income
       - correct: false
         value: Net income
+      - correct: true
+        value: Gross income
       - correct: false
         value: Disposable income
 
   - text: 'What is the primary goal of financial management for a business or individual?'
     options:
-      - correct: true
-        value: Maximizing wealth or value
       - correct: false
         value: Minimizing risk
       - correct: false
         value: Increasing revenue
+      - correct: true
+        value: Maximizing wealth or value
 
   - text: "Which of the following is a common type of investment that represents ownership in a corporation and gives the investor a claim on part of the company's assets and earnings?"
     options:
-      - correct: true
-        value: Stocks
       - correct: false
         value: Bonds
       - correct: false
         value: Mutual funds
+      - correct: true
+        value: Stocks
 
   - text: 'What is the term for the rate at which money grows over time due to compounding interest or investment returns?'
     options:
-      - correct: true
-        value: Rate of return
       - correct: false
         value: Inflation rate
       - correct: false
         value: Exchange rate
+      - correct: true
+        value: Rate of return
 
   - text: 'In finance, what is the practice of spreading investments among different asset classes to reduce risk called?'
     options:
-      - correct: true
-        value: Diversification
       - correct: false
         value: Leverage
       - correct: false
         value: Arbitrage
+      - correct: true
+        value: Diversification

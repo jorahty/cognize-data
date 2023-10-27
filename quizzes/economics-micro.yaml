@@ -5,45 +5,45 @@ description: 'Test your knowledge of microeconomic concepts.'
 questions:
   - text: 'What is the term for the study of how individual consumers and firms make choices and interact in the market?'
     options:
-      - correct: true
-        value: Microeconomics
       - correct: false
         value: Macroeconomics
       - correct: false
         value: Econometrics
+      - correct: true
+        value: Microeconomics
 
   - text: 'In microeconomics, what is the principle that individuals or firms make decisions by comparing the additional benefits to the additional costs of an action?'
     options:
-      - correct: true
-        value: Marginal analysis
       - correct: false
         value: Price elasticity
+      - correct: true
+        value: Marginal analysis
       - correct: false
         value: Monopoly
 
   - text: 'What is the term for a market structure in which there is only one seller, and that seller has significant market power?'
     options:
-      - correct: true
-        value: Monopoly
       - correct: false
         value: Oligopoly
       - correct: false
         value: Perfect competition
+      - correct: true
+        value: Monopoly
 
   - text: 'In microeconomics, what is the study of how the price and quantity of goods sold in markets are determined?'
     options:
-      - correct: true
-        value: Price theory
       - correct: false
         value: Game theory
       - correct: false
         value: Utility theory
+      - correct: true
+        value: Price theory
 
   - text: 'What is the term for the maximum price at which a consumer is willing to buy a good or service?'
     options:
-      - correct: true
-        value: Reservation price
       - correct: false
         value: Market price
+      - correct: true
+        value: Reservation price
       - correct: false
         value: Equilibrium price

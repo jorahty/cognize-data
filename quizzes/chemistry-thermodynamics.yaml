@@ -17,36 +17,36 @@ questions:
 
   - text: 'What is the first law of thermodynamics also known as?'
     options:
-      - correct: true
-        value: Law of Conservation of Energy
-        detail: 'Correct! The first law of thermodynamics is often referred to as the Law of Conservation of Energy.'
       - correct: false
         value: Law of Entropy
         detail: 'The second law of thermodynamics deals with entropy.'
+      - correct: true
+        value: Law of Conservation of Energy
+        detail: 'Correct! The first law of thermodynamics is often referred to as the Law of Conservation of Energy.'
       - correct: false
         value: Law of Specific Heats
         detail: 'This law is not a common name for the first law of thermodynamics.'
 
   - text: 'In thermodynamics, what is the change in internal energy of a system equal to?'
     options:
-      - correct: true
-        value: Heat added to the system minus work done by the system
-        detail: 'Correct! The change in internal energy (ΔU) is equal to heat added (Q) minus work done (W) by the system (ΔU = Q - W).'
       - correct: false
         value: Temperature change
         detail: 'Temperature change alone is not sufficient to determine the change in internal energy.'
       - correct: false
         value: Pressure change
         detail: 'Pressure change is related to work done but is not the sole factor in the change in internal energy.'
+      - correct: true
+        value: Heat added to the system minus work done by the system
+        detail: 'Correct! The change in internal energy (ΔU) is equal to heat added (Q) minus work done (W) by the system (ΔU = Q - W).'
 
   - text: 'What is the term for a thermodynamic process in which there is no exchange of heat with the surroundings (Q = 0)?'
     options:
-      - correct: true
-        value: Adiabatic
-        detail: 'Correct! An adiabatic process is one in which there is no exchange of heat with the surroundings (Q = 0).'
       - correct: false
         value: Isothermal
         detail: 'An isothermal process occurs at a constant temperature.'
+      - correct: true
+        value: Adiabatic
+        detail: 'Correct! An adiabatic process is one in which there is no exchange of heat with the surroundings (Q = 0).'
       - correct: false
         value: Isobaric
         detail: 'An isobaric process occurs at a constant pressure.'

@@ -23,27 +23,27 @@ questions:
 
   - text: 'What is the energy associated with the motion of an object called?'
     options:
-      - correct: true
-        value: Kinetic energy
       - correct: false
         value: Potential energy
       - correct: false
         value: Mechanical energy
+      - correct: true
+        value: Kinetic energy
 
   - text: 'What is the energy stored in an object due to its position or height called?'
     options:
-      - correct: true
-        value: Potential energy
       - correct: false
         value: Elastic energy
+      - correct: true
+        value: Potential energy
       - correct: false
         value: Gravitational energy
 
   - text: 'In the context of energy, what is the term for the measure of disorder or randomness in a system?'
     options:
-      - correct: true
-        value: Entropy
       - correct: false
         value: Efficiency
+      - correct: true
+        value: Entropy
       - correct: false
         value: Inertia

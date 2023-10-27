@@ -5,60 +5,60 @@ description: 'Test your knowledge of motion in physics.'
 questions:
   - text: 'Which of the following is a scalar quantity related to motion?'
     options:
-      - correct: false
-        value: Velocity
-        detail: 'Velocity is a vector quantity, as it has both magnitude and direction.'
       - correct: true
         value: Speed
         detail: 'Correct! Speed is a scalar quantity; it only has magnitude.'
+      - correct: false
+        value: Velocity
+        detail: 'Velocity is a vector quantity, as it has both magnitude and direction.'
       - correct: false
         value: Acceleration
         detail: 'Acceleration is a vector quantity because it has both magnitude and direction.'
 
   - text: 'What is the SI unit for measuring speed or velocity?'
     options:
-      - correct: true
-        value: Meter per second (m/s)
-        detail: 'Correct! The SI unit for speed or velocity is meters per second (m/s).'
       - correct: false
         value: Kilometer per hour (km/h)
         detail: 'Kilometer per hour is a commonly used unit for speed in everyday life, but not in SI.'
+      - correct: true
+        value: Meter per second (m/s)
+        detail: 'Correct! The SI unit for speed or velocity is meters per second (m/s).'
       - correct: false
         value: Meter per second squared (m/s²)
         detail: 'This is a unit of acceleration.'
 
   - text: 'In physics, what is the term for the rate of change of velocity with respect to time?'
     options:
-      - correct: false
-        value: Distance
-        detail: 'Distance is the length of the path traveled by an object.'
       - correct: true
         value: Acceleration
         detail: 'Correct! Acceleration is the rate of change of velocity with respect to time.'
       - correct: false
         value: Displacement
         detail: 'Displacement is the change in position of an object.'
+      - correct: false
+        value: Distance
+        detail: 'Distance is the length of the path traveled by an object.'
 
   - text: 'A car moving in a straight line covers equal distances in equal intervals of time. What type of motion is it?'
     options:
-      - correct: true
-        value: Uniform motion
-        detail: 'Correct! When an object covers equal distances in equal intervals of time, it is in uniform motion.'
       - correct: false
         value: Non-uniform motion
         detail: 'Non-uniform motion is when an object does not cover equal distances in equal time intervals.'
       - correct: false
         value: Random motion
         detail: 'Random motion refers to unpredictable, chaotic motion.'
+      - correct: true
+        value: Uniform motion
+        detail: 'Correct! When an object covers equal distances in equal intervals of time, it is in uniform motion.'
 
   - text: 'What is the term for the force that opposes the motion of objects in contact with a surface?'
     options:
-      - correct: true
-        value: Friction
-        detail: 'Correct! Friction is the force that opposes the motion of objects in contact with a surface.'
       - correct: false
         value: Gravity
         detail: 'Gravity is the force of attraction between objects with mass.'
+      - correct: true
+        value: Friction
+        detail: 'Correct! Friction is the force that opposes the motion of objects in contact with a surface.'
       - correct: false
         value: Tension
         detail: 'Tension is the force in a stretched or pulled object, like a rope.'

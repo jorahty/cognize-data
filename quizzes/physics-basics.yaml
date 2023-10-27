@@ -5,12 +5,12 @@ description: 'Test your knowledge of fundamental physics concepts.'
 questions:
   - text: 'What is the fundamental unit of length in the International System of Units (SI)?'
     options:
-      - correct: true
-        value: Meter
-        detail: 'Correct! The meter (or metre) is the base unit of length in SI.'
       - correct: false
         value: Second
         detail: 'This is a unit of time.'
+      - correct: true
+        value: Meter
+        detail: 'Correct! The meter (or metre) is the base unit of length in SI.'
 
   - text: 'Which of the following is a scalar quantity in physics?'
     options:
